@@ -1,0 +1,430 @@
+[
+    {
+      "id": 1,
+      "chefName": "Chef Akkash",
+      "title": "Senior executive chef",
+      "degree": "Culinary Arts",
+      "email": "johnsmith@email.com",
+      "phone": "+1 (555) 123-4567",
+      "foodName1": "Chocolate Chip Cookies",
+      "foodName2": "Bittersweet Chocolate",
+      "foodName3": "Unsweetened Chocolate",
+      "ingredients1": [
+        "unsalted butter",
+        "softened",
+        "granulated sugar",
+        "brown sugar",
+        "boil eggs",
+        "granulated flour"
+        
+      ],
+      "cookingMethod1": [
+        "Chop chocolate, heat it",
+        "Pour cream over chocolate, .",
+        "Stir until smooth.",
+        "Refrigerate until firm.",
+        "Scoop, roll into balls.",
+        "Chill, coat in cocoa powder.",
+        "Store in airtight container."
+      ],
+      "ingredients2": [
+        "shrimp",
+        "mussels",
+        "chicken thighs",
+        "saffron",
+        "tomatoes",
+        "mutton thighs"
+       
+      ],
+      "cookingMethod2": [
+        "Chop chocolate, heat cream ",
+        "Pour cream over chocolate",
+        "Stir until quickly, .",
+        "Cool ganache slightly.",
+        "Use as glaze or filling.",
+        "Refrigerate to thicken"
+        
+      ],
+      "ingredients3": [
+        "cocoa butter",
+        "cocoa solids,",
+        "baking chocolate",
+        "turmeric",
+        "red chili powder",
+        "baking chocolate"
+        
+      ],
+      "cookingMethod3": [
+        "Preheat oven, grease baking pan.",
+        "Melt & butter  double boiler.",
+        "Whisk sugar, eggs, bowl.",
+        " mixture, mix well.",
+        "Sift flour and salt",
+        "Pour batter  greased pan.",
+        "Bake 25-30 minutes"
+      ],
+      "foodDetails": "Aromatic rice dish with meat, spices, and saffron.",
+      "rating":[4.5,4.7,4.9],
+      "likes": 1000,
+      "chefImg": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg",
+      "experience": 15,
+      "recipesItems": 50
+    },
+    {
+      "id": 2,
+      "chefName": "Chef JhonDon",
+      "title": " Junior executive chef",
+      "degree": "bulinary Science",
+      "email": "jhondon@email.com",
+      "phone": "+1 (555) 143-5567",
+      "foodName1": "Chocolate Chip Cookies",
+      "foodName2": "Bittersweet Chocolate",
+      "foodName3": "Unsweetened Chocolate",
+      "ingredients1": [
+        "unsalted butter",
+        "softened",
+        "granulated sugar",
+        "brown sugar",
+        "boil eggs",
+        "granulated flour"
+        
+      ],
+      "cookingMethod1": [
+        "Chop chocolate, heat it",
+        "Pour cream over chocolate, .",
+        "Stir until smooth.",
+        "Refrigerate until firm.",
+        "Scoop, roll into balls.",
+        "Chill, coat in cocoa powder.",
+        "Store in airtight container."
+      ],
+      "ingredients2": [
+        "shrimp",
+        "mussels",
+        "chicken thighs",
+        "saffron",
+        "tomatoes",
+        "mutton thighs"
+       
+      ],
+      "cookingMethod2": [
+        "Chop chocolate, heat cream ",
+        "Pour cream over chocolate",
+        "Stir until quickly, .",
+        "Cool ganache slightly.",
+        "Use as glaze or filling.",
+        "Refrigerate to thicken"
+        
+      ],
+      "ingredients3": [
+        "cocoa butter",
+        "cocoa solids,",
+        "baking chocolate",
+        "turmeric",
+        "red chili powder",
+        "baking chocolate"
+        
+      ],
+      "cookingMethod3": [
+        "Preheat oven, grease baking pan.",
+        "Melt & butter  double boiler.",
+        "Whisk sugar, eggs, bowl.",
+        " mixture, mix well.",
+        "Sift flour and salt",
+        "Pour batter  greased pan.",
+        "Bake 25-30 minutes"
+      ],
+      "foodDetails": "Assorted rice cakes with sweet or savory fillings.",
+      "rating": [4.2,4.4,4,7],
+      "likes": 800,
+      "chefImg": "https://shorturl.at/amux0",
+      "experience": 5,
+      "recipesItems": 40
+    },
+    {
+      "id": 3,
+      "chefName": "Chef Malala ",
+      "title": "Brance Manager chef",
+      "degree": "Culiary art",
+      "email": "malala@email.com",
+      "phone": "+1 (555) 1543-5367",
+      "foodName1": "Chocolate Chip Cookies",
+      "foodName2": "Bittersweet Chocolate",
+      "foodName3": "Unsweetened Chocolate",
+      "ingredients1": [
+        "unsalted butter",
+        "softened",
+        "granulated sugar",
+        "brown sugar",
+        "boil eggs",
+        "granulated flour"
+        
+      ],
+      "cookingMethod1": [
+        "Chop chocolate, heat it",
+        "Pour cream over chocolate, .",
+        "Stir until smooth.",
+        "Refrigerate until firm.",
+        "Scoop, roll into balls.",
+        "Chill, coat in cocoa powder.",
+        "Store in airtight container."
+      ],
+      "ingredients2": [
+        "shrimp",
+        "mussels",
+        "chicken thighs",
+        "saffron",
+        "tomatoes",
+        "mutton thighs"
+       
+      ],
+      "cookingMethod2": [
+        "Chop chocolate, heat cream ",
+        "Pour cream over chocolate",
+        "Stir until quickly, .",
+        "Cool ganache slightly.",
+        "Use as glaze or filling.",
+        "Refrigerate to thicken"
+        
+      ],
+      "ingredients3": [
+        "cocoa butter",
+        "cocoa solids,",
+        "baking chocolate",
+        "turmeric",
+        "red chili powder",
+        "baking chocolate"
+        
+      ],
+      "cookingMethod3": [
+        "Preheat oven, grease baking pan.",
+        "Melt & butter  double boiler.",
+        "Whisk sugar, eggs, bowl.",
+        " mixture, mix well.",
+        "Sift flour and salt",
+        "Pour batter  greased pan.",
+        "Bake 25-30 minutes"
+      ],
+      "foodDetails": "Hilsa fish cooked in mustard sauce with spices.",
+      "rating":[ 4.3, 4.5,4.8],
+      "likes": 1200,
+  
+      "chefImg": "https://shorturl.at/iBDY7",
+      "experience": 8,
+      "recipesItems": 45
+    },
+    {
+      "id": 4,
+      "chefName": "Chef DonVon",
+      "title": "Brance Junior Chef",
+      "degree": "Culinary Arts",
+      "email": "von@yahoo.com",
+      "phone": "+1 (555) 123-4554",
+      "foodName1": "Chocolate Chip Cookies",
+      "foodName2": "Bittersweet Chocolate",
+      "foodName3": "Unsweetened Chocolate",
+      "ingredients1": [
+        "unsalted butter",
+        "softened",
+        "granulated sugar",
+        "brown sugar",
+        "boil eggs",
+        "granulated flour"
+        
+      ],
+      "cookingMethod1": [
+        "Chop chocolate, heat it",
+        "Pour cream over chocolate, .",
+        "Stir until smooth.",
+        "Refrigerate until firm.",
+        "Scoop, roll into balls.",
+        "Chill, coat in cocoa powder.",
+        "Store in airtight container."
+      ],
+      "ingredients2": [
+        "shrimp",
+        "mussels",
+        "chicken thighs",
+        "saffron",
+        "tomatoes",
+        "mutton thighs"
+       
+      ],
+      "cookingMethod2": [
+        "Chop chocolate, heat cream ",
+        "Pour cream over chocolate",
+        "Stir until quickly, .",
+        "Cool ganache slightly.",
+        "Use as glaze or filling.",
+        "Refrigerate to thicken"
+        
+      ],
+      "ingredients3": [
+        "cocoa butter",
+        "cocoa solids,",
+        "baking chocolate",
+        "turmeric",
+        "red chili powder",
+        "baking chocolate"
+        
+      ],
+      "cookingMethod3": [
+        "Preheat oven, grease baking pan.",
+        "Melt & butter  double boiler.",
+        "Whisk sugar, eggs, bowl.",
+        " mixture, mix well.",
+        "Sift flour and salt",
+        "Pour batter  greased pan.",
+        "Bake 25-30 minutes"
+      ],
+      "foodDetails": "Soft cheese balls soaked in sweet milk syrup.",
+      "rating":[ 4.6,4.7 ,4.9],
+      "likes": 950,
+      "chefImg": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg",
+      "experience": 7,
+      "recipesItems": 40
+    },
+    {
+      "id": 5,
+      "chefName": "Chef Estefak",
+      "title": "Sub excutive chef",
+      "degree": "Culinary Arts",
+      "email": "johnsmith@email.com",
+      "phone": "+1 (555) 123-4543",
+      "foodName1": "Chocolate Chip Cookies",
+      "foodName2": "Bittersweet Chocolate",
+      "foodName3": "Unsweetened Chocolate",
+      "ingredients1": [
+        "unsalted butter",
+        "softened",
+        "granulated sugar",
+        "brown sugar",
+        "boil eggs",
+        "granulated flour"
+        
+      ],
+      "cookingMethod1": [
+        "Chop chocolate, heat it",
+        "Pour cream over chocolate, .",
+        "Stir until smooth.",
+        "Refrigerate until firm.",
+        "Scoop, roll into balls.",
+        "Chill, coat in cocoa powder.",
+        "Store in airtight container."
+      ],
+      "ingredients2": [
+        "shrimp",
+        "mussels",
+        "chicken thighs",
+        "saffron",
+        "tomatoes",
+        "mutton thighs"
+       
+      ],
+      "cookingMethod2": [
+        "Chop chocolate, heat cream ",
+        "Pour cream over chocolate",
+        "Stir until quickly, .",
+        "Cool ganache slightly.",
+        "Use as glaze or filling.",
+        "Refrigerate to thicken"
+        
+      ],
+      "ingredients3": [
+        "cocoa butter",
+        "cocoa solids,",
+        "baking chocolate",
+        "turmeric",
+        "red chili powder",
+        "baking chocolate"
+        
+      ],
+      "cookingMethod3": [
+        "Preheat oven, grease baking pan.",
+        "Melt & butter  double boiler.",
+        "Whisk sugar, eggs, bowl.",
+        " mixture, mix well.",
+        "Sift flour and salt",
+        "Pour batter  greased pan.",
+        "Bake 25-30 minutes"
+      ],
+      "foodDetails": "Thin unleavened flatbread made from wheat flour.",
+      "rating": [4.1,4.3,4.6],
+      "likes": 700,
+      "chefImg": "https://shorturl.at/amux0",
+      "experience": 6,
+      "recipesItems": 35
+    },
+    {
+      "id": 6,
+      "chefName": "Chef Faruki",
+      "title": "Sub Brance chef",
+      "degree": "culinary Arts",
+      "email": "faruki@yahoo.com",
+      "phone": "+1 (555) 123-9865",
+      "foodName1": "Chocolate Chip Cookies",
+      "foodName2": "Bittersweet Chocolate",
+      "foodName3": "Unsweetened Chocolate",
+      "ingredients1": [
+        "unsalted butter",
+        "softened",
+        "granulated sugar",
+        "brown sugar",
+        "boil eggs",
+        "granulated flour"
+        
+      ],
+      "cookingMethod1": [
+        "Chop chocolate, heat it",
+        "Pour cream over chocolate, .",
+        "Stir until smooth.",
+        "Refrigerate until firm.",
+        "Scoop, roll into balls.",
+        "Chill, coat in cocoa powder.",
+        "Store in airtight container."
+      ],
+      "ingredients2": [
+        "shrimp",
+        "mussels",
+        "chicken thighs",
+        "saffron",
+        "tomatoes",
+        "mutton thighs"
+       
+      ],
+      "cookingMethod2": [
+        "Chop chocolate, heat cream ",
+        "Pour cream over chocolate",
+        "Stir until quickly, .",
+        "Cool ganache slightly.",
+        "Use as glaze or filling.",
+        "Refrigerate to thicken"
+        
+      ],
+      "ingredients3": [
+        "cocoa butter",
+        "cocoa solids,",
+        "baking chocolate",
+        "turmeric",
+        "red chili powder",
+        "baking chocolate"
+        
+      ],
+      "cookingMethod3": [
+        "Preheat oven, greas baking pan.",
+        "Melt & butter  double boiler.",
+        "Whisk sugar, eggs, bowl.",
+        " mixture, mix well.",
+        "Sift flour and salt",
+        "Pour batter  greased pan.",
+        "Bake 25-30 minutes"
+      ],
+      "foodDetails": "Spicy street snack made with puffed rice, veggies, and spices.",
+      "rating": [4.3,4.5,4.9],
+      "likes": 850,
+      "chefImg": "https://shorturl.at/iBDY7",
+      "experience": 5,
+      "recipesItems": 32
+    }
+  ]
+  
